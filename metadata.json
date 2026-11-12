@@ -1,0 +1,6 @@
+{
+  "name": "AG Architects & Interior Designers - Delhi Mobile App",
+  "description": "Flagship native mobile application for AG Architects and Interior Designers in Kalyan Vihar, Delhi. Features 8-view stack navigation, Delhi interior pricing calculator, 4.9-star Google reviews, and real-time navigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
